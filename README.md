@@ -1,7 +1,7 @@
 # Schlager🐀
 
 ## Database design
-![](https://i.imgur.com/4xQw8xG.png)
+![](https://i.imgur.com/vhU6jDn.png)
 
 https://dbdiagram.io/d/5de0e564edf08a25543e837e
 
@@ -53,28 +53,24 @@ https://dbdiagram.io/d/5de0e564edf08a25543e837e
             "id": 1,
             "title": "Placeholder",
             "information": "lorem ipsum",
-            "spotify_id": "",
             "country": "se"
         },
         {
             "id": 2,
             "title": "Placeholder",
             "information": "lorem ipsum",
-            "spotify_id": "",
             "country": "de"
         },
         {
             "id": 3,
             "title": "Placeholder",
             "information": "lorem ipsum",
-            "spotify_id": "",
             "country": "uk"
         },
         {
             "id": 4,
             "title": "Placeholder",
-            "information": "lorem ipsum",
-            "spotify_id": "",
+            "information": "lorem ipsum",            
             "country": "no"
         }
     ]
