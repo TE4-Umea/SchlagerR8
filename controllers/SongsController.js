@@ -5,7 +5,7 @@ class SongsController {
      * @param req request
      * @param res response
      */
-    index(req, res) {
+    static index(req, res) {
         
     }
 }
