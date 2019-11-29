@@ -1,4 +1,4 @@
-# Schlager
+# Schlager🐀
 
 ## Database design
 
