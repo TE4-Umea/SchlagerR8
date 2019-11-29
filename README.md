@@ -1,6 +1,7 @@
 # Schlager🐀
 
 ## Database design
+![](https://i.imgur.com/TUoHShj.png)
 
 https://dbdiagram.io/d/5de0e564edf08a25543e837e
 
